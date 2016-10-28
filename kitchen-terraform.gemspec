@@ -63,7 +63,7 @@ Gem::Specification.new do |specification|
 
   specification.required_ruby_version = ['~> 2.3', '>= 2.3.1']
 
-  specification.required_rubygems_version = ['~> 2.6', '>= 2.6.3']
+  specification.required_rubygems_version = ['~> 2.5', '>= 2.5.1']
 
   specification.requirements = ['Terraform >= 0.6.0, < 0.8.0']
 
